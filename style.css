@@ -37,7 +37,7 @@ form{
   cursor: pointer;
   width: 90%;
   margin-left: 5%;
-  height: 0.70cm; */
+  height: 0.70cm;
   display: block;
   width: 90%;
   padding: 24px;
@@ -47,6 +47,7 @@ form{
   border: none;
   color: white;
 }
+
 body{
     background-color: blanchedalmond;
     margin-top: 0px;
@@ -103,6 +104,5 @@ margin-left: 5%;
 /* .form-top{
     margin-left: 5%;
     padding: 0.25rem;
-    margin-bottom: 40px; */
-}
+    margin-bottom: 40px; }*/
 
